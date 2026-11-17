@@ -118,3 +118,7 @@ oem_crawl_page: status = ok / empty / error / blocked
 ## 免责声明
 
 本项目仅供合法的市场调研、竞品分析与自有站点巡检使用。使用者需自行确保采集行为符合目标网站条款及当地法律法规。
+
+## 许可证
+
+本项目采用 [GNU General Public License v2.0](LICENSE) 许可证。
