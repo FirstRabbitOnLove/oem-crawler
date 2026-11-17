@@ -1,0 +1,8 @@
+requests>=2.31.0
+PyMySQL>=1.1.0
+# MySQL 8.0 caching_sha2_password 认证需要（云数据库 RDS 常见配置）
+cryptography>=42.0.0
+# 可选：JS 渲染 / 截图
+playwright>=1.44.0
+# 可选：反自动化指纹增强（提升过 Cloudflare JS 挑战的概率）
+playwright-stealth>=1.0.6

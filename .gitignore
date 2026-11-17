@@ -1,0 +1,10 @@
+.env
+.venv/
+storage/
+__pycache__/
+*.pyc
+market_sources_state.json
+ms-playwright/
+tmp_*_cache/
+*.log
+.DS_Store
